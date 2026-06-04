@@ -459,6 +459,26 @@
                 "name": "翁天信 Dandy Weng 的摄影集 →",
                 "contact": "https://camarts.app/?5Q"
             }
+        },
+        "dandy_weng": {
+            "lang": {
+                "zh_CN": {
+                    "title": "翁天信 DANDY WENG 的摄影集",
+                    "desc": "翁天信 Dandy Weng 的摄影集 →"
+                },
+                "zh_TW": {
+                    "title": "翁天信 DANDY WENG 的攝影集",
+                    "desc": "翁天信 Dandy Weng 的攝影集 →"
+                },
+                "en": {
+                    "title": "Dandy Weng's Photography",
+                    "desc": "Dandy Weng's Photography Collection →"
+                }
+            },
+            "author": {
+                "name": "Dandy Weng",
+                "contact": "https://camarts.app"
+            }
         }
     },
     "collections": [
@@ -1644,80 +1664,91 @@
             "name": "Dandy Weng Photography",
             "author": "Dandy Weng",
             "origin": "camarts.app",
-            "info": "https://camarts.app/hx9"
+            "info": "https://camarts.app/hx9",
+            "create": "dandy_weng"
         },
         {
             "url": "https://library.cdn.camartsphotography.com/490anz07.jpg",
             "name": "Dandy Weng Photography",
             "author": "Dandy Weng",
             "origin": "camarts.app",
-            "info": "https://camarts.app/f3x"
+            "info": "https://camarts.app/f3x",
+            "create": "dandy_weng"
         },
         {
             "url": "https://library.cdn.camartsphotography.com/5w37l6va.jpg",
             "name": "Dandy Weng Photography",
             "author": "Dandy Weng",
             "origin": "camarts.app",
-            "info": "https://camarts.app/v7k"
+            "info": "https://camarts.app/v7k",
+            "create": "dandy_weng"
         },
         {
             "url": "https://library.cdn.camartsphotography.com/8p024pef.jpg",
             "name": "Dandy Weng Photography",
             "author": "Dandy Weng",
             "origin": "camarts.app",
-            "info": "https://camarts.app/e6a"
+            "info": "https://camarts.app/e6a",
+            "create": "dandy_weng"
         },
         {
             "url": "https://library.cdn.camartsphotography.com/4veyq6h8.jpg",
             "name": "Dandy Weng Photography",
             "author": "Dandy Weng",
             "origin": "camarts.app",
-            "info": "https://camarts.app/e2v"
+            "info": "https://camarts.app/e2v",
+            "create": "dandy_weng"
         },
         {
             "url": "https://library.cdn.camartsphotography.com/7kpncmao.jpg",
             "name": "Dandy Weng Photography",
             "author": "Dandy Weng",
             "origin": "camarts.app",
-            "info": "https://camarts.app/tt9"
+            "info": "https://camarts.app/tt9",
+            "create": "dandy_weng"
         },
         {
             "url": "https://library.cdn.camartsphotography.com/51bsfpds.jpg",
             "name": "Dandy Weng Photography",
             "author": "Dandy Weng",
             "origin": "camarts.app",
-            "info": "https://camarts.app/x6m"
+            "info": "https://camarts.app/x6m",
+            "create": "dandy_weng"
         },
         {
             "url": "https://library.cdn.camartsphotography.com/af76gtfh.jpg",
             "name": "Dandy Weng Photography",
             "author": "Dandy Weng",
             "origin": "camarts.app",
-            "info": "https://camarts.app/b7x"
+            "info": "https://camarts.app/b7x",
+            "create": "dandy_weng"
         },
         {
             "url": "https://library.cdn.camartsphotography.com/5v6q33fr.jpg",
             "name": "Dandy Weng Photography",
             "author": "Dandy Weng",
             "origin": "camarts.app",
-            "info": "https://camarts.app/nw7"
+            "info": "https://camarts.app/nw7",
+            "create": "dandy_weng"
         },
         {
             "url": "https://library.cdn.camartsphotography.com/4blrvmk2.jpg",
             "name": "Dandy Weng Photography",
             "author": "Dandy Weng",
             "origin": "camarts.app",
-            "info": "https://camarts.app/f7w"
+            "info": "https://camarts.app/f7w",
+            "create": "dandy_weng"
         },
         {
             "url": "https://library.cdn.camartsphotography.com/24gr5v4z.jpg",
             "name": "Dandy Weng Photography",
             "author": "Dandy Weng",
             "origin": "camarts.app",
-            "info": "https://camarts.app/h8k"
+            "info": "https://camarts.app/h8k",
+            "create": "dandy_weng"
         }
     ],
-    "last_updated": "2026-06-04T16:23:19.523863",
+    "last_updated": "2026-06-04T16:37:17.240679",
     "total_valid": 118,
     "version_tag": "v3"
 }
