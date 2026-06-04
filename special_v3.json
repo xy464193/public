@@ -5,63 +5,63 @@
             "hdurl": [
                 "1207"
             ],
-            "info": "http://baike.baidu.com/link?url=Affv7iZaTEHfUl9ocqsxn7GzO1efqsOZPROskOJriNtWQwdBmjxcn0Yi41GVzJV2tvNOPQeNy3HcAToR6QquHlmzkHwOHQwkIklXhStefd7"
+            "info": "https://baike.baidu.com/item/%E5%A4%A7%E9%9B%AA/12827"
         },
         "20151222": {
             "name": "二十四节气之冬至",
             "hdurl": [
                 "1222"
             ],
-            "info": "http://baike.baidu.com/subview/16674/5833579.htm"
+            "info": "https://baike.baidu.com/item/%E5%86%AC%E8%87%B3/9381"
         },
         "20151224": {
             "name": "平安夜",
             "hdurl": [
                 "1224"
             ],
-            "info": "http://baike.baidu.com/link?url=k7GtBcb9ZbBuv_HpwUXqMjLhpa3jKKRo2xdnvdicUAKk6L9nimLqOqe2Qcz14qO_ZAffCqvVGD9y08ykyuk_VXi2nq3OuAnU8xeB6Qhfdki"
+            "info": "https://baike.baidu.com/item/%E5%B9%B3%E5%AE%89%E5%A4%9C/5895445"
         },
         "20151225": {
             "name": "圣诞节",
             "hdurl": [
                 "1225"
             ],
-            "info": "http://baike.baidu.com/link?url=GKBbR-8H0V10WXStVizHJehY2BsIC_luULLZzxRjuZFZaoXHOmigIDfHCt7UH6w87E4MoIq7nLlpBxMAglBt-q"
+            "info": "https://baike.baidu.com/item/%E5%9C%A3%E8%AF%9E%E8%8A%82/127881"
         },
         "20160106": {
             "name": "二十四节气之小寒",
             "hdurl": [
                 "0106"
             ],
-            "info": "http://baike.baidu.com/link?url=Y08SIg3LQa7BPQn5D8kQhqoGAoM0kWRmcrqS-fZSsj2mebKVGZEXWrtuBGHC-MaS3_zBY_yBAxqagBZnkWIbHSon6GxKDqX-LmsXuVW92cu"
+            "info": "https://baike.baidu.com/item/%E5%B0%8F%E5%AF%92/8893"
         },
         "20160120": {
             "name": "二十四节气之大寒",
             "hdurl": [
                 "0120"
             ],
-            "info": "http://baike.baidu.com/link?url=7r6i4sR2OP1NAdbAlupuYigaAKhmxX69HpwC9L19JwPsJ2NsXq7g8PRtuimTb0UDMWwhmXOdktBCkr-0U931ni58CGKTLrTejVah5LQDjxK"
+            "info": "https://baike.baidu.com/item/%E5%A4%A7%E5%AF%92/490438"
         },
         "20160204": {
             "name": "二十四节气之立春",
             "hdurl": [
                 "0204"
             ],
-            "info": "http://baike.baidu.com/link?url=lWejfwUPFsHJsxvolhj0B-CnudOsM9NehZDB3OEy2c6FpBhQGvLR7qbkj9iAwOuH2EW6jvPK83L5qfy6uNR3Lz1Kr0Bgghg6J8R84OcDx6C"
+            "info": "https://baike.baidu.com/item/%E7%AB%8B%E6%98%A5/8896"
         },
         "20160207": {
             "name": "二十四节气之除夕",
             "hdurl": [
                 "0207"
             ],
-            "info": "http://baike.baidu.com/subview/2562/19754236.htm"
+            "info": "https://baike.baidu.com/item/%E9%99%A4%E5%A4%95/128141"
         },
         "20160208": {
             "name": "二十四节气之春节",
             "hdurl": [
                 "0208"
             ],
-            "info": "http://baike.baidu.com/item/%E6%98%A5%E8%8A%82/136876"
+            "info": "https://baike.baidu.com/item/%E6%98%A5%E8%8A%82/136876"
         }
     },
     "special": {
@@ -1638,8 +1638,86 @@
             "bgcolor": "",
             "create": "2018-09-19",
             "origin": "unsplash.com"
+        },
+        {
+            "url": "https://library.cdn.camartsphotography.com/62py6odb.jpg",
+            "name": "Dandy Weng Photography",
+            "author": "Dandy Weng",
+            "origin": "camarts.app",
+            "info": "https://camarts.app/hx9"
+        },
+        {
+            "url": "https://library.cdn.camartsphotography.com/490anz07.jpg",
+            "name": "Dandy Weng Photography",
+            "author": "Dandy Weng",
+            "origin": "camarts.app",
+            "info": "https://camarts.app/f3x"
+        },
+        {
+            "url": "https://library.cdn.camartsphotography.com/5w37l6va.jpg",
+            "name": "Dandy Weng Photography",
+            "author": "Dandy Weng",
+            "origin": "camarts.app",
+            "info": "https://camarts.app/v7k"
+        },
+        {
+            "url": "https://library.cdn.camartsphotography.com/8p024pef.jpg",
+            "name": "Dandy Weng Photography",
+            "author": "Dandy Weng",
+            "origin": "camarts.app",
+            "info": "https://camarts.app/e6a"
+        },
+        {
+            "url": "https://library.cdn.camartsphotography.com/4veyq6h8.jpg",
+            "name": "Dandy Weng Photography",
+            "author": "Dandy Weng",
+            "origin": "camarts.app",
+            "info": "https://camarts.app/e2v"
+        },
+        {
+            "url": "https://library.cdn.camartsphotography.com/7kpncmao.jpg",
+            "name": "Dandy Weng Photography",
+            "author": "Dandy Weng",
+            "origin": "camarts.app",
+            "info": "https://camarts.app/tt9"
+        },
+        {
+            "url": "https://library.cdn.camartsphotography.com/51bsfpds.jpg",
+            "name": "Dandy Weng Photography",
+            "author": "Dandy Weng",
+            "origin": "camarts.app",
+            "info": "https://camarts.app/x6m"
+        },
+        {
+            "url": "https://library.cdn.camartsphotography.com/af76gtfh.jpg",
+            "name": "Dandy Weng Photography",
+            "author": "Dandy Weng",
+            "origin": "camarts.app",
+            "info": "https://camarts.app/b7x"
+        },
+        {
+            "url": "https://library.cdn.camartsphotography.com/5v6q33fr.jpg",
+            "name": "Dandy Weng Photography",
+            "author": "Dandy Weng",
+            "origin": "camarts.app",
+            "info": "https://camarts.app/nw7"
+        },
+        {
+            "url": "https://library.cdn.camartsphotography.com/4blrvmk2.jpg",
+            "name": "Dandy Weng Photography",
+            "author": "Dandy Weng",
+            "origin": "camarts.app",
+            "info": "https://camarts.app/f7w"
+        },
+        {
+            "url": "https://library.cdn.camartsphotography.com/24gr5v4z.jpg",
+            "name": "Dandy Weng Photography",
+            "author": "Dandy Weng",
+            "origin": "camarts.app",
+            "info": "https://camarts.app/h8k"
         }
     ],
-    "last_updated": "2026-06-04T15:20:30.449007",
-    "total_valid": 107
+    "last_updated": "2026-06-04T16:23:19.523863",
+    "total_valid": 118,
+    "version_tag": "v3"
 }
