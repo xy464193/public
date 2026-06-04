@@ -1665,7 +1665,10 @@
             "contact": "https://camarts.app",
             "origin": "camarts.app",
             "info": "https://camarts.app/hx9",
-            "create": "2024-06-04"
+            "create": "2024-06-04",
+            "category": "photography",
+            "tags": "photography",
+            "bgcolor": ""
         },
         {
             "url": "https://library.cdn.camartsphotography.com/490anz07.jpg",
@@ -1673,7 +1676,10 @@
             "contact": "https://camarts.app",
             "origin": "camarts.app",
             "info": "https://camarts.app/f3x",
-            "create": "2024-06-04"
+            "create": "2024-06-04",
+            "category": "photography",
+            "tags": "photography",
+            "bgcolor": ""
         },
         {
             "url": "https://library.cdn.camartsphotography.com/5w37l6va.jpg",
@@ -1681,7 +1687,10 @@
             "contact": "https://camarts.app",
             "origin": "camarts.app",
             "info": "https://camarts.app/v7k",
-            "create": "2024-06-04"
+            "create": "2024-06-04",
+            "category": "photography",
+            "tags": "photography",
+            "bgcolor": ""
         },
         {
             "url": "https://library.cdn.camartsphotography.com/8p024pef.jpg",
@@ -1689,7 +1698,10 @@
             "contact": "https://camarts.app",
             "origin": "camarts.app",
             "info": "https://camarts.app/e6a",
-            "create": "2024-06-04"
+            "create": "2024-06-04",
+            "category": "photography",
+            "tags": "photography",
+            "bgcolor": ""
         },
         {
             "url": "https://library.cdn.camartsphotography.com/4veyq6h8.jpg",
@@ -1697,7 +1709,10 @@
             "contact": "https://camarts.app",
             "origin": "camarts.app",
             "info": "https://camarts.app/e2v",
-            "create": "2024-06-04"
+            "create": "2024-06-04",
+            "category": "photography",
+            "tags": "photography",
+            "bgcolor": ""
         },
         {
             "url": "https://library.cdn.camartsphotography.com/7kpncmao.jpg",
@@ -1705,7 +1720,10 @@
             "contact": "https://camarts.app",
             "origin": "camarts.app",
             "info": "https://camarts.app/tt9",
-            "create": "2024-06-04"
+            "create": "2024-06-04",
+            "category": "photography",
+            "tags": "photography",
+            "bgcolor": ""
         },
         {
             "url": "https://library.cdn.camartsphotography.com/51bsfpds.jpg",
@@ -1713,7 +1731,10 @@
             "contact": "https://camarts.app",
             "origin": "camarts.app",
             "info": "https://camarts.app/x6m",
-            "create": "2024-06-04"
+            "create": "2024-06-04",
+            "category": "photography",
+            "tags": "photography",
+            "bgcolor": ""
         },
         {
             "url": "https://library.cdn.camartsphotography.com/af76gtfh.jpg",
@@ -1721,7 +1742,10 @@
             "contact": "https://camarts.app",
             "origin": "camarts.app",
             "info": "https://camarts.app/b7x",
-            "create": "2024-06-04"
+            "create": "2024-06-04",
+            "category": "photography",
+            "tags": "photography",
+            "bgcolor": ""
         },
         {
             "url": "https://library.cdn.camartsphotography.com/5v6q33fr.jpg",
@@ -1729,7 +1753,10 @@
             "contact": "https://camarts.app",
             "origin": "camarts.app",
             "info": "https://camarts.app/nw7",
-            "create": "2024-06-04"
+            "create": "2024-06-04",
+            "category": "photography",
+            "tags": "photography",
+            "bgcolor": ""
         },
         {
             "url": "https://library.cdn.camartsphotography.com/4blrvmk2.jpg",
@@ -1737,7 +1764,10 @@
             "contact": "https://camarts.app",
             "origin": "camarts.app",
             "info": "https://camarts.app/f7w",
-            "create": "2024-06-04"
+            "create": "2024-06-04",
+            "category": "photography",
+            "tags": "photography",
+            "bgcolor": ""
         },
         {
             "url": "https://library.cdn.camartsphotography.com/24gr5v4z.jpg",
@@ -1745,10 +1775,13 @@
             "contact": "https://camarts.app",
             "origin": "camarts.app",
             "info": "https://camarts.app/h8k",
-            "create": "2024-06-04"
+            "create": "2024-06-04",
+            "category": "photography",
+            "tags": "photography",
+            "bgcolor": ""
         }
     ],
-    "last_updated": "2026-06-04T16:47:30.020634",
+    "last_updated": "2026-06-04T16:55:48.271923",
     "total_valid": 118,
     "version_tag": "v3"
 }
