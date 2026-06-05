@@ -1,7 +1,19 @@
 {
-    "version": "20191124",
-    "root": "https://raw.githubusercontent.com/xy464193/public/main",
+    "version": "20240605",
+    "root": "https://raw.githubusercontent.com/xy464193/public/refs/heads/main/script/",
     "items": [
+        {
+            "title": "股票实时盯盘",
+            "desc": "基于腾讯财经 API 的实时盯盘工具，支持搜索、分时图预览。",
+            "link": "https://github.com/xy464193/public",
+            "snap": "screen/StockMonitor.png",
+            "download": "config/simptab-zenmode-StockMonitor.txt",
+            "version": "1.0.0",
+            "author": {
+                "name": "Gemini CLI",
+                "contact": "https://github.com/google/gemini-cli"
+            }
+        },
         {
             "title": "简约时钟",
             "desc": "",
