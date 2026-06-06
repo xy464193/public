@@ -6,7 +6,7 @@
             "title": "任务清单",
             "desc": "支持创建任务/状态跟踪/优先级设置/时间记录/任务编辑等",
             "link": "https://github.com/xy464193/public",
-            "snap": "screen/StockMonitor.png",
+            "snap": "screen/任务清单.png",
             "download": "config/simptab-zenmode-tasklist.txt",
             "version": "1.0.0",
             "author": {
