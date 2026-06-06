@@ -3,6 +3,18 @@
     "root": "https://raw.githubusercontent.com/xy464193/public/refs/heads/main/script/",
     "items": [
         {
+            "title": "任务清单",
+            "desc": "支持创建任务/状态跟踪/优先级设置/时间记录/任务编辑等",
+            "link": "https://github.com/xy464193/public",
+            "snap": "screen/StockMonitor.png",
+            "download": "config/simptab-zenmode-tasklist.txt",
+            "version": "1.0.0",
+            "author": {
+                "name": "Claude",
+                "contact": "https://claude.com"
+            }
+        },
+        {
             "title": "股票实时盯盘",
             "desc": "基于腾讯财经 API 的实时盯盘工具，支持搜索、分时图预览。",
             "link": "https://github.com/xy464193/public",
